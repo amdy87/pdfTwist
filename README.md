@@ -1,2 +1,2 @@
 # pdfTwist
-PDF manipulator for merging and other pdf edits
+PDF manipulator for merging 2 pdf files together
